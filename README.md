@@ -6,7 +6,6 @@
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
-![Snake animation](https://github.com/motojojoe/motojojoe/blob/output/github-contribution-grid-snake.svg)
 <!--
 **motojojoe/motojojoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
